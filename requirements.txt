@@ -1,2 +1,4 @@
 django
 environs
+Pillow
+django-import-export
